@@ -4,7 +4,7 @@
 
 Infrastructure / Cloud Engineer based in Japan 🇯🇵
 
-- 🏢 Infrastructure SE @fujitsu (remote)
+- 🏢 Infrastructure SE [@fujitsu](https://github.com/fujitsu) (remote)
 - ☁️ AWS-focused (design, IaC, operations)
 - 🎓 Background in **AI / Machine Learning** (graduate school)
 - 🧠 Interested in **Platform Engineering, SRE, DevOps, MLOps**
