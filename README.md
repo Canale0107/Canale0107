@@ -31,7 +31,7 @@ Infrastructure / Cloud Engineer based in Japan 🇯🇵
 - AWS Certified Cloud Practitioner
 - AWS Certified Solutions Architect – Associate
 - AWS Certified CloudOps Engineer - Associate
-
+- AWS Certified Developer - Associate
 ---
 
 ## Philosophy
