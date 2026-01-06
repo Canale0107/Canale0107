@@ -1,4 +1,4 @@
-# 👋 Kanare (かなれ)
+# 👋 小寺 奏怜
 
 [🇬🇧 English is here](./README.md)
 
