@@ -1,49 +1,75 @@
 # 👋 Kanare (かなれ)
 
-## About Me
+[🇯🇵 日本語はこちら](./README.ja.md)
 
 Infrastructure / Cloud Engineer based in Japan 🇯🇵
 
-- 🏢 Infrastructure SE @ **Fujitsu** (remote)
-- ☁️ AWS-focused (design, IaC, operations)
-- 🎓 Background in **AI / Machine Learning** (graduate school)
-- 🧠 Interested in **Platform Engineering, SRE, DevOps, MLOps**
-- 🧩 Value: _Freedom through structure_
+---
+
+## Professional Summary
+
+Infrastructure Engineer with hands-on experience in designing and implementing
+AWS-based infrastructure for large-scale software delivery platforms in the manufacturing domain.
+
+Currently working as an Infrastructure SE at Fujitsu, contributing to
+architecture design, detailed design documentation, and Infrastructure as Code (IaC)
+implementation using CloudFormation.
+Alongside professional work, I actively explore Terraform through personal projects
+to deepen my understanding of agile and reproducible infrastructure design.
 
 ---
 
-## Tech Stack
+## Professional Experience (Overview)
+
+**Infrastructure SE | Fujitsu (Jul 2025 – Present)**
+
+- Contributed to architecture and detailed design of AWS environments
+- Authored portions of architecture and detailed design documents
+- Implemented AWS infrastructure using CloudFormation based on design specifications
+- Performed validation and verification in test environments
+
+---
+
+## Technical Skills
+
+### Cloud & Infrastructure
+
+- AWS: EC2, Lambda, API Gateway, CloudFront, S3, Aurora, IAM,
+  NAT Gateway, Client VPN, AWS Backup, Systems Manager (SSM)
+
+### Infrastructure as Code
+
+- CloudFormation (production experience)
+- Terraform (personal projects)
 
 ### Programming
 
-- Python 🐍
-
-### Other Interests
-
-- Observability
-- GitOps / Infrastructure automation
-- Cloud-native architecture
+- Python
+- C
 
 ---
 
 ## Certifications
 
-- AWS Certified Cloud Practitioner
-- AWS Certified Solutions Architect – Associate
-- AWS Certified CloudOps Engineer - Associate
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1658e81f-9604-4850-8949-0dfbc8262a55)
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b90003c9-9a26-414d-b4f3-3a3fc05803f1)
+- [AWS Certified CloudOps Engineer – Associate](https://www.credly.com/badges/af4b7eee-7adc-45fd-832c-d233f50c4af6)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/2fb0a9b4-0d9d-422a-8b8a-dd7e9b0053ca)
 
 ---
 
-## Philosophy
+## Engineering Philosophy
 
 > Design stable structures that preserve freedom.
 
-I see technology not as control, but as a way to **create freedom through well-designed systems**.
+I approach infrastructure engineering with the belief that
+well-structured systems reduce cognitive load and enable teams to move faster
+without sacrificing reliability or autonomy.
 
 ---
 
 ## Links
 
-- 🌐 Portfolio: [https://kanare.dev](https://kanare.dev)
-- 🧑‍💻 GitHub: [https://github.com/Canale0107](https://github.com/Canale0107)
-- ✉️ Mail: [canale0107@icloud.com](canale0107@icloud.com)
+- 🌐 Portfolio: https://kanare.dev
+- 🧑‍💻 GitHub: https://github.com/Canale0107
+- ✉️ Mail: canale0107@icloud.com
