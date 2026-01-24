@@ -4,6 +4,15 @@
 
 日本在住のインフラストラクチャ / クラウドエンジニア 🇯🇵
 
+## 技術スタック
+
+[![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python&perline=5)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
+
 ---
 
 ## プロフェッショナルサマリー
