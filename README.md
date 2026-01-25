@@ -82,4 +82,4 @@ without sacrificing reliability or autonomy.
 
 - 🌐 Portfolio: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/Canale0107
-- ✉️ Mail: canale0107@icloud.com
+- ✉️ Mail: canale0107 [at] icloud.com

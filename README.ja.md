@@ -56,7 +56,7 @@
 
 ## 資格
 
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1658e81f-9604-4850-8949-0dfbc8262a55)
+- <a href="https://www.credly.com/badges/1658e81f-9604-4850-8949-0dfbc8262a55"><img alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="110" /></a>
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b90003c9-9a26-414d-b4f3-3a3fc05803f1)
 - [AWS Certified CloudOps Engineer – Associate](https://www.credly.com/badges/af4b7eee-7adc-45fd-832c-d233f50c4af6)
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/2fb0a9b4-0d9d-422a-8b8a-dd7e9b0053ca)
@@ -76,4 +76,4 @@
 
 - 🌐 ポートフォリオ: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/Canale0107
-- ✉️ メール: canale0107@icloud.com
+- ✉️ メール: canale0107 [at] icloud.com
