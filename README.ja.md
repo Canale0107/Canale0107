@@ -12,6 +12,8 @@
 [![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
 [![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
+![Top Languages](./profile/top-langs.svg)
+
 ---
 
 ## プロフェッショナルサマリー
