@@ -1,8 +1,8 @@
 # 👋 Kanare Kodera
 
-[🇯🇵 日本語はこちら](./README.md)
+[English is here](./README.md)
 
-Infrastructure / Cloud Engineer based in Japan
+現在、インフラ/クラウドエンジニアとして働いています。
 
 ## Tech Stack
 
@@ -16,41 +16,34 @@ Infrastructure / Cloud Engineer based in Japan
 
 ---
 
-## Professional Summary
+## 職務概要
 
-Infrastructure Engineer with hands-on experience in designing and implementing
-AWS-based infrastructure for large-scale software delivery platforms in the manufacturing domain.
+現在はインフラSE として、方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の実装に貢献しています。
+業務と並行して、個人プロジェクトを通じて Terraform を積極的に活用し、アジャイルで再現可能なインフラストラクチャ設計への理解を深めています。
 
-Currently working as an Infrastructure SE at Fujitsu, contributing to
-architecture design, detailed design documentation, and Infrastructure as Code (IaC)
-implementation using CloudFormation.
-Alongside professional work, I actively explore Terraform through personal projects
-to deepen my understanding of agile and reproducible infrastructure design.
-
-[Resume](resume.adoc)
+[職務経歴書](resume.adoc)
 
 ---
 
-## Technical Skills
+## 技術スキル
 
-### Cloud & Infrastructure
+### クラウド & インフラストラクチャ
 
-- AWS: EC2, Lambda, API Gateway, CloudFront, S3, Aurora, IAM,
-  NAT Gateway, Client VPN, AWS Backup, Systems Manager (SSM)
+- AWS: EC2, Lambda, API Gateway, CloudFront, S3, IAM, DynamoDB など
 
 ### Infrastructure as Code
 
-- CloudFormation (production experience)
-- Terraform (personal projects)
+- CloudFormation (実務経験あり)
+- Terraform (個人プロジェクト)
 
-### Programming
+### プログラミング
 
 - Python
 - C
 
 ---
 
-## Certifications
+## 資格
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1658e81f-9604-4850-8949-0dfbc8262a55)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b90003c9-9a26-414d-b4f3-3a3fc05803f1)
@@ -60,18 +53,17 @@ to deepen my understanding of agile and reproducible infrastructure design.
 
 ---
 
-## Engineering Philosophy
+## 哲学
 
-> Design stable structures that preserve freedom.
+> 自由を保つ安定した構造を設計する。
 
-I approach infrastructure engineering with the belief that
-well-structured systems reduce cognitive load and enable teams to move faster
-without sacrificing reliability or autonomy.
+インフラストラクチャエンジニアリングにおいて、構造化されたシステムは認知負荷を軽減し、
+信頼性や自律性を犠牲にすることなく、チームがより速く動けるようになると信じています。
 
 ---
 
-## Links
+## リンク
 
-- 🌐 Portfolio: https://kanare.dev
+- 🌐 ポートフォリオ: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/Canale0107
-- ✉️ Mail: canale0107 [at] icloud.com
+- ✉️ メール: canale0107 [at] icloud.com

@@ -1,8 +1,8 @@
 # 👋 Kanare Kodera
 
-[English is here](./README.en.md)
+[日本語はこちら](./README.ja.md)
 
-現在、インフラ/クラウドエンジニアとして働いています。
+Infrastructure / Cloud Engineer based in Japan
 
 ## Tech Stack
 
@@ -16,34 +16,41 @@
 
 ---
 
-## 職務概要
+## Professional Summary
 
-現在はインフラSE として、方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の実装に貢献しています。
-業務と並行して、個人プロジェクトを通じて Terraform を積極的に活用し、アジャイルで再現可能なインフラストラクチャ設計への理解を深めています。
+Infrastructure Engineer with hands-on experience in designing and implementing
+AWS-based infrastructure for large-scale software delivery platforms in the manufacturing domain.
 
-[職務経歴書](resume.adoc)
+Currently working as an Infrastructure SE at Fujitsu, contributing to
+architecture design, detailed design documentation, and Infrastructure as Code (IaC)
+implementation using CloudFormation.
+Alongside professional work, I actively explore Terraform through personal projects
+to deepen my understanding of agile and reproducible infrastructure design.
+
+[Resume](resume.adoc)
 
 ---
 
-## 技術スキル
+## Technical Skills
 
-### クラウド & インフラストラクチャ
+### Cloud & Infrastructure
 
-- AWS: EC2, Lambda, API Gateway, CloudFront, S3, IAM, DynamoDB など
+- AWS: EC2, Lambda, API Gateway, CloudFront, S3, Aurora, IAM,
+  NAT Gateway, Client VPN, AWS Backup, Systems Manager (SSM)
 
 ### Infrastructure as Code
 
-- CloudFormation (実務経験あり)
-- Terraform (個人プロジェクト)
+- CloudFormation (production experience)
+- Terraform (personal projects)
 
-### プログラミング
+### Programming
 
 - Python
 - C
 
 ---
 
-## 資格
+## Certifications
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/1658e81f-9604-4850-8949-0dfbc8262a55)
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b90003c9-9a26-414d-b4f3-3a3fc05803f1)
@@ -53,17 +60,18 @@
 
 ---
 
-## 哲学
+## Engineering Philosophy
 
-> 自由を保つ安定した構造を設計する。
+> Design stable structures that preserve freedom.
 
-インフラストラクチャエンジニアリングにおいて、構造化されたシステムは認知負荷を軽減し、
-信頼性や自律性を犠牲にすることなく、チームがより速く動けるようになると信じています。
+I approach infrastructure engineering with the belief that
+well-structured systems reduce cognitive load and enable teams to move faster
+without sacrificing reliability or autonomy.
 
 ---
 
-## リンク
+## Links
 
-- 🌐 ポートフォリオ: https://kanare.dev
+- 🌐 Portfolio: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/Canale0107
-- ✉️ メール: canale0107 [at] icloud.com
+- ✉️ Mail: canale0107 [at] icloud.com
