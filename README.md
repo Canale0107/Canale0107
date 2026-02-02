@@ -28,8 +28,7 @@ Alongside professional work, I actively explore Terraform through personal proje
 to deepen my understanding of agile and reproducible infrastructure design.
 
 - [Resume (Asciidoc)](resume.adoc)
-- Resume (PDF): `https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf`
-- PDF publishing guide: [`docs/release-resume-pdf.md`](docs/release-resume-pdf.md)
+- Resume (PDF): [`https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf`](https://github.com/Canale0107/Canale0107/releases/latest/download/resume.pdf)
 
 ---
 
