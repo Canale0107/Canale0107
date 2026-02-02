@@ -1,0 +1,17 @@
+extends: default
+
+font:
+  catalog:
+    Noto Sans JP:
+      normal: NotoSansJP-Regular.ttf
+      bold: NotoSansJP-Bold.ttf
+      italic: NotoSansJP-Regular.ttf
+      bold_italic: NotoSansJP-Bold.ttf
+  fallbacks:
+    - Noto Sans JP
+
+base:
+  font_family: Noto Sans JP
+
+heading:
+  font_family: Noto Sans JP

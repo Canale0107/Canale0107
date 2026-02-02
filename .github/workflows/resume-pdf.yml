@@ -1,0 +1,50 @@
+name: Build resume PDF
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "resume.adoc"
+      - "pdf/**"
+      - ".github/workflows/resume-pdf.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+
+      - name: Install Asciidoctor PDF
+        run: |
+          gem install asciidoctor asciidoctor-pdf
+
+      - name: Download Japanese fonts (Noto Sans JP)
+        run: |
+          mkdir -p pdf/fonts dist
+          curl -fsSL -o pdf/fonts/NotoSansJP-Regular.ttf \
+            https://github.com/google/fonts/raw/main/ofl/notosansjp/NotoSansJP-Regular.ttf
+          curl -fsSL -o pdf/fonts/NotoSansJP-Bold.ttf \
+            https://github.com/google/fonts/raw/main/ofl/notosansjp/NotoSansJP-Bold.ttf
+
+      - name: Build PDF
+        run: |
+          asciidoctor-pdf \
+            -a pdf-theme=pdf/theme.yml \
+            -a pdf-fontsdir=pdf/fonts \
+            -D dist \
+            resume.adoc
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-pdf
+          path: dist/resume.pdf
