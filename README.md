@@ -2,9 +2,9 @@
 
 [🇬🇧 English is here](./README.en.md)
 
-クラウドエンジニア
+現在、インフラ/クラウドエンジニアとして働いています。
 
-## 技術スタック
+## Tech Stack
 
 [![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)  
 [![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
@@ -16,23 +16,12 @@
 
 ---
 
-## プロフェッショナルサマリー
+## 職務概要
 
-製造業の大規模ソフトウェア配信プラットフォーム向けに、AWS ベースのインフラストラクチャの設計と実装に携わってきた実務経験を持つインフラストラクチャエンジニア。
-
-現在は富士通株式会社でインフラSE として、方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の実装に貢献しています。
+現在はインフラSE として、方式設計書、詳細設計書の作成、CloudFormation を使用した Infrastructure as Code（IaC）の実装に貢献しています。
 業務と並行して、個人プロジェクトを通じて Terraform を積極的に活用し、アジャイルで再現可能なインフラストラクチャ設計への理解を深めています。
 
----
-
-## 職務経験（概要）
-
-**インフラストラクチャ SE | 富士通 (2025 年 7 月 – 現在)**
-
-- AWS 環境のアーキテクチャおよび詳細設計に貢献
-- 方式設計書および詳細設計書の一部を執筆
-- 詳細設計書に基づき CloudFormation を使用して AWS インフラストラクチャを実装
-- サンドボックス環境での検証および確認を実施
+[職務経歴書](resume.adoc)
 
 ---
 
@@ -40,7 +29,7 @@
 
 ### クラウド & インフラストラクチャ
 
-- AWS: EC2, Lambda, API Gateway, CloudFront, S3, IAM, DynamoDB
+- AWS: EC2, Lambda, API Gateway, CloudFront, S3, IAM, DynamoDB など
 
 ### Infrastructure as Code
 
@@ -64,7 +53,7 @@
 
 ---
 
-## エンジニアリング哲学
+## 哲学
 
 > 自由を保つ安定した構造を設計する。
 

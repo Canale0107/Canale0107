@@ -27,16 +27,7 @@ implementation using CloudFormation.
 Alongside professional work, I actively explore Terraform through personal projects
 to deepen my understanding of agile and reproducible infrastructure design.
 
----
-
-## Professional Experience (Overview)
-
-**Infrastructure SE | Fujitsu (Jul 2025 – Present)**
-
-- Contributed to architecture and detailed design of AWS environments
-- Authored portions of architecture and detailed design documents
-- Implemented AWS infrastructure using CloudFormation based on design specifications
-- Performed validation and verification in test environments
+[Resume](resume.adoc)
 
 ---
 
