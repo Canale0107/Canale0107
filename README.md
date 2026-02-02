@@ -1,6 +1,6 @@
 # 👋 Kanare Kodera
 
-[🇬🇧 English is here](./README.en.md)
+[English is here](./README.en.md)
 
 現在、インフラ/クラウドエンジニアとして働いています。
 
