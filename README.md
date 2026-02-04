@@ -46,7 +46,7 @@ implementation using CloudFormation.
 Alongside professional work, I actively explore Terraform through personal projects
 to deepen my understanding of agile and reproducible infrastructure design.
 
-- [Resume](./RESUME.md)
+- [Resume (Japanese)](./RESUME.md)
 
 ---
 
