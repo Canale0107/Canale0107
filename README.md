@@ -1,21 +1,36 @@
-# 👋 Hi, there
+# Hi there 👋
+
 ![GitHub followers](https://img.shields.io/github/followers/Canale0107?label=followers&logo=github&style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=Canale0107&color=blue)
 
 My name is Kanare Kodera.  
 I'm a cloud engineer.
 
+![Top Languages](./cards/top-langs/top-langs.svg)
+
 [日本語はこちら](./README.ja.md)
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+### DevOps
 
 [![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
-![Top Languages](./cards/top-langs/top-langs.svg)
+### Frontend
+
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
+
+### Programming
+
+[![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
+
+### Tools
+
+[![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
+
+### AI, ML, Data Science
+
+[![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
 ---
 
@@ -31,25 +46,6 @@ Alongside professional work, I actively explore Terraform through personal proje
 to deepen my understanding of agile and reproducible infrastructure design.
 
 - [Resume](resume.md)
-
----
-
-## Technical Skills
-
-### Cloud & Infrastructure
-
-- AWS: EC2, Lambda, API Gateway, CloudFront, S3, Aurora, IAM,
-  NAT Gateway, Client VPN, AWS Backup, Systems Manager (SSM)
-
-### Infrastructure as Code
-
-- CloudFormation (production experience)
-- Terraform (personal projects)
-
-### Programming
-
-- Python
-- C
 
 ---
 

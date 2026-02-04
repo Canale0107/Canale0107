@@ -1,18 +1,30 @@
-# 👋 Kanare Kodera
+# 小寺 奏怜 (Kodera Kanare)
+
+現在、クラウドエンジニアとして働いています。
+
+![Top Languages](./cards/top-langs/top-langs.svg)
 
 [English is here](./README.md)
 
-現在、インフラ/クラウドエンジニアとして働いています。
+## 🛠️ Tech Stack
 
-## Tech Stack
+### DevOps
 
 [![Tech Stack](https://skillicons.dev/icons?i=aws,terraform,linux,docker)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
-[![Tech Stack](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=5)](https://skillicons.dev)
 
-![Top Languages](./cards/top-langs/top-langs.svg)
+### Frontend
+
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,vite,vercel,cloudflare&perline=5)](https://skillicons.dev)  
+
+### Programming
+
+[![Tech Stack](https://skillicons.dev/icons?i=python,c,java)](https://skillicons.dev)  
+
+### Tools
+
+[![Tech Stack](https://skillicons.dev/icons?i=git,github,githubactions,vim,neovim&perline=5)](https://skillicons.dev)  
+
+### AI, ML, Data Science
 
 ---
 
@@ -22,25 +34,6 @@
 業務と並行して、個人プロジェクトを通じて Terraform を積極的に活用し、アジャイルで再現可能なインフラストラクチャ設計への理解を深めています。
 
 - [職務経歴書](resume.md)
-
-
----
-
-## 技術スキル
-
-### クラウド & インフラストラクチャ
-
-- AWS: EC2, Lambda, API Gateway, CloudFront, S3, IAM, DynamoDB など
-
-### Infrastructure as Code
-
-- CloudFormation (実務経験あり)
-- Terraform (個人プロジェクト)
-
-### プログラミング
-
-- Python
-- C
 
 ---
 
@@ -54,17 +47,16 @@
 
 ---
 
-## 哲学
+## 思想
 
 > 自由を保つ安定した構造を設計する。
 
-インフラストラクチャエンジニアリングにおいて、構造化されたシステムは認知負荷を軽減し、
-信頼性や自律性を犠牲にすることなく、チームがより速く動けるようになると信じています。
+複雑さの中に構造を見出し、その作用を明らかにして妥当性を問い直し、共有可能な形へと整えることに喜びを感じます。
 
 ---
 
 ## リンク
 
-- 🌐 ポートフォリオ: https://kanare.dev
+- 🌐 Portfolio: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/Canale0107
-- ✉️ メール: canale0107 [at] icloud.com
+- ✉️ Mail: canale0107 [at] icloud.com
