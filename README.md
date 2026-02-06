@@ -26,7 +26,7 @@ I'm a cloud engineer.
 Infrastructure Engineer with hands-on experience in designing and implementing
 AWS-based infrastructure for large-scale software delivery platforms in the manufacturing domain.
 
-Currently working as an Infrastructure SE at Fujitsu, contributing to
+Currently working as a Cloud Engineer, contributing to
 architecture design, detailed design documentation, and Infrastructure as Code (IaC)
 implementation using CloudFormation.
 Alongside professional work, I actively explore Terraform through personal projects
