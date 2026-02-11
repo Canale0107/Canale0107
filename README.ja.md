@@ -48,4 +48,4 @@
 
 - 🌐 Portfolio: https://kanare.dev
 - 🧑‍💻 GitHub: https://github.com/kanare-dev
-- ✉️ Mail: me [at] kanare.dev
+- ✉️ Mail: contact@kanare.dev
