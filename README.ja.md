@@ -47,5 +47,5 @@
 ## リンク
 
 - 🌐 Portfolio: https://kanare.dev
-- 🧑‍💻 GitHub: https://github.com/Canale0107
+- 🧑‍💻 GitHub: https://github.com/kanare-dev
 - ✉️ Mail: canale0107 [at] icloud.com

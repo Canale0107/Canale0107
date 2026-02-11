@@ -80,7 +80,7 @@
 ## アウトプット
 
 - ポートフォリオ: https://kanare.dev
-- GitHub: https://github.com/Canale0107
+- GitHub: https://github.com/kanare-dev
 - 技術記事: 今後執筆予定
 - 登壇: 今後挑戦予定
 - OSS: 今後挑戦予定
