@@ -70,7 +70,7 @@
 
 | 期間 | プロジェクト/プロダクト | 担当（役割/範囲） | 技術/環境 |
 | --- | --- | --- | --- |
-| 2025/7〜現在 | 車両向けソフトウェア配信プラットフォーム向けのAWS環境の設計・構築 | 方式設計、詳細設計、IaC実装、構築 | AWS(CloudFront, API Gateway, DynamoDB, Lambda, RDS, S3, CloudWatch, IAM), IaC(CloudFormation) |
+| 2025/7〜現在 | 車載機器向けソフトウェア更新パッケージ配信基盤（AWS）の設計・構築 | 方式設計、詳細設計、IaC実装、構築 | AWS(CloudFront, API Gateway, DynamoDB, Lambda, RDS, S3, CloudWatch, IAM), IaC(CloudFormation) |
 
 #### スキル（この職務で使ったもの）
 
